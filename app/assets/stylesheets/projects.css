@@ -1,0 +1,11 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+.project-card {
+  transition: background-color 0.5s ease;
+}
+.project-card:hover {
+    background-color: #f7f7f7;
+  }
+}
